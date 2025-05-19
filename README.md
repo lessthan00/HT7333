@@ -1,5 +1,9 @@
 # HT7333
 
+<img src="./HT7333_F.png" style="display:block; margin:auto; width:50%;" />  
+<img src="./HT7333_B.png" style="display:block; margin:auto; width:50%;" />  
+<img src="./HT7333-Edge_Cuts.svg" style="display:block; margin:auto; width:50%;" />  
+
 [HT7333](https://item.szlcsc.com/323851.html?fromZone=s_s__%2522HT7333%2522&spm=sc.gb.xh2.zy.n___sc.hm.hd.ss&lcsc_vid=EwQKBQVXRFYIBQVTR1JbVFcAFgRYUl0AFFNZVAEARVQxVlNSQVZWVVFfRVBZXzsOAxUeFF5JWBYZEEoEHg8JSQcJGk4%3D)
 
 LDO
